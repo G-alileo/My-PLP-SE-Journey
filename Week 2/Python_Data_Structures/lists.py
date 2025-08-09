@@ -37,3 +37,6 @@ print("Sorted List : ", my_numbers)
 
 reversed =  my_numbers.reverse()
 print("Reversed List : ", my_numbers)
+
+#  length
+print("List Length : ", len(my_numbers))  # 6
